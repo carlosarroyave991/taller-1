@@ -113,5 +113,3 @@ PUNTO 19.
 
 PUNTO 20.
 - update tipo_libro set id_tipo ='t1' where presentacion ='revista';
-
-PUNTO 20.
